@@ -4,91 +4,109 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer?style=social)](https://github.com/gpt-engineer-org/gpt-engineer)
 [![Twitter Follow](https://img.shields.io/twitter/follow/antonosika?style=social)](https://twitter.com/antonosika)
 
-GPT-engineer lets you:
-- Specify a software in natural language
-- Sit back and watch as an AI writes and executes the code
-- Ask the AI to implement improvements
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h1 tabindex="-1" dir="auto"><a id="user-content-gpt-engineer" class="anchor" aria-hidden="true" tabindex="-1" href="#gpt-engineer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GPT-工程师</font></font></h1>
+<p dir="auto"><a href="https://discord.gg/8tcDQ89Ej2" rel="nofollow"><img src="https://camo.githubusercontent.com/61278af3f3322742c9fa577d53c4633190166245548d683ce39126572103abd9/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f7365727665722f38746344513839456a323f7374796c653d666c6174" alt="不和谐 关注" data-canonical-src="https://dcbadge.vercel.app/api/server/8tcDQ89Ej2?style=flat" style="max-width: 100%;"></a>
+<a href="https://github.com/gpt-engineer-org/gpt-engineer"><img src="https://camo.githubusercontent.com/65a3985c85abf80b17c809568de764616472d7225b5c364da6eee5d72ce43182/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6770742d656e67696e6565722d6f72672f6770742d656e67696e6565723f7374796c653d736f6369616c" alt="GitHub 存储库星星" data-canonical-src="https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer?style=social" style="max-width: 100%;"></a>
+<a href="https://twitter.com/antonosika" rel="nofollow"><img src="https://camo.githubusercontent.com/ec6eabe5b52f3407e347bf84f5fd7171b501f0b272a68537908e9cddd3b45e1b/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f616e746f6e6f73696b613f7374796c653d736f6369616c" alt="推特关注" data-canonical-src="https://img.shields.io/twitter/follow/antonosika?style=social" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GPT 工程师让您：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用自然语言指定软件</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">坐下来观看人工智能编写和执行代码</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要求 AI 实施改进</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-getting-started" class="anchor" aria-hidden="true" tabindex="-1" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h2>
+<h3 tabindex="-1" dir="auto"><a id="user-content-install-gpt-engineer" class="anchor" aria-hidden="true" tabindex="-1" href="#install-gpt-engineer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装 gpt 工程师</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">稳定</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发布：</font></font></p>
+<ul dir="auto">
+<li><code>python -m pip install gpt-engineer</code></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font></p>
+<ul dir="auto">
+<li><code>git clone https://github.com/gpt-engineer-org/gpt-engineer.git</code></li>
+<li><code>cd gpt-engineer</code></li>
+<li><code>poetry install</code></li>
+<li><code>poetry shell</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">激活虚拟环境</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们积极支持 Python 3.10 - 3.11。</font><font style="vertical-align: inherit;">支持 python 3.8 - 3.9 的最后一个版本是</font></font><a href="https://pypi.org/project/gpt-engineer/0.2.6/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0.2.6</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-setup-api-key" class="anchor" aria-hidden="true" tabindex="-1" href="#setup-api-key"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置 API 密钥</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">选择以下</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一项</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">导出环境变量（您可以将其添加到 .bashrc 中，这样您就不必每次启动终端时都执行此操作）
+</font></font><ul dir="auto">
+<li><code>export OPENAI_API_KEY=[your api key]</code></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.env 文件：
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"></font><code>.env.template</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建一个名为</font><font style="vertical-align: inherit;">的副本</font></font><code>.env</code></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 .env 中添加您的 OPENAI_API_KEY</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">定制型号：
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="https://gpt-engineer.readthedocs.io/en/latest/open_models.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，支持本地模型、azure 等。</font></font></li>
+</ul>
+</li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">检查</font></font><a href="/gpt-engineer-org/gpt-engineer/blob/main/WINDOWS_README.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows 自述文件</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以了解 Windows 使用情况。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">其他运行方式：</font></font></strong></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Docker（</font></font><a href="/gpt-engineer-org/gpt-engineer/blob/main/docker/README.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">说明</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在浏览器中执行所有操作：
+</font></font><a href="https://github.com/gpt-engineer-org/gpt-engineer/codespaces"><img src="https://github.com/codespaces/badge.svg" alt="在 GitHub Codespaces 中打开" style="max-width: 100%;"></a></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-creating-new-code-default-usage" class="anchor" aria-hidden="true" tabindex="-1" href="#creating-new-code-default-usage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建新代码（默认用法）</font></font></h3>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在计算机上的任何位置为您的项目创建一个空文件夹</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在新文件夹中创建一个名为（无扩展名）的文件</font></font><code>prompt</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，并在其中填充说明</font></font></li>
+<li><font style="vertical-align: inherit;"></font><code>gpte &lt;project_dir&gt;</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用文件夹的相对路径
+</font><font style="vertical-align: inherit;">运行</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例如：</font></font><code>gpte projects/my-new-project</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从 gpt-engineer 目录根目录中添加新文件夹</font></font><code>projects/</code></li>
+</ul>
+</li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-improving-existing-code" class="anchor" aria-hidden="true" tabindex="-1" href="#improving-existing-code"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">改进现有代码</font></font></h3>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在计算机上的任意位置找到包含您想要改进的代码的文件夹</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在新文件夹中创建一个名为</font></font><code>prompt</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（无扩展名）的文件，并在其中填充有关如何改进代码的说明</font></font></li>
+<li><font style="vertical-align: inherit;"></font><code>gpte &lt;project_dir&gt; -i</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用文件夹的相对路径
+</font><font style="vertical-align: inherit;">运行</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例如：</font></font><code>gpte projects/my-old-project</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从 gpt-engineer 目录根目录中，您的文件夹位于</font></font><code>projects/</code></li>
+</ul>
+</li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行 gpt-engineer 您同意我们的</font></font><a href="https://github.com/gpt-engineer-org/gpt-engineer/blob/main/TERMS_OF_USE.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">条款</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-note" class="anchor" aria-hidden="true" tabindex="-1" href="#note"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">笔记</font></font></h3>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"></font><code>gpte</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要运行此工具，建议使用</font><font style="vertical-align: inherit;">新命令以获得更好的用户体验。</font><font style="vertical-align: inherit;">但是，也支持</font><font style="vertical-align: inherit;">早期的默认命令</font></font><code>gpt-engineer</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和。</font></font><code>ge</code><font style="vertical-align: inherit;"></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-relation-to-gptengineerapp" class="anchor" aria-hidden="true" tabindex="-1" href="#relation-to-gptengineerapp"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与 gptengineer.app 的关系</font></font></h2>
+<p dir="auto"><a href="https://gptengineer.app/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">gptengineer.app</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一个用于自动生成 Web 应用程序的商业项目。</font><font style="vertical-align: inherit;">它诞生于gpt-engineer，致力于回馈开源社区。</font><font style="vertical-align: inherit;">gptengineer.app 收入的一部分将用于资助全职角色和基础设施，以维护代码生成的开源工具。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-features" class="anchor" aria-hidden="true" tabindex="-1" href="#features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以通过编辑文件夹中的文件来指定AI代理的“身份” </font></font><code>preprompts</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编辑项目提示</font></font><code>preprompts</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并改进编写项目提示的方式是让代理记住项目之间的事情的方法。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您还可以</font></font><code>preprompts</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 cli 参数自动将所有文件复制到项目文件夹中</font></font><code>--use-custom-preprompts</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">这样您就可以为所有项目提供自定义的预先提示，而无需编辑主文件。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您还可以使用开源模型运行，例如 WizardCoder。</font><font style="vertical-align: inherit;">请参阅</font></font><a href="https://gpt-engineer.readthedocs.io/en/latest/open_models.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以获取示例说明。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-mission" class="anchor" aria-hidden="true" tabindex="-1" href="#mission"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使命</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">gpt-engineer 社区的使命是</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">维护编码代理构建者可以使用的工具并促进开源社区中的协作</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您有兴趣为此做出贡献，我们很乐意邀请&ZeroWidthSpace;&ZeroWidthSpace;您。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想了解我们更广泛的雄心壮志，请查看</font></font><a href="https://github.com/gpt-engineer-org/gpt-engineer/blob/main/ROADMAP.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">路线图</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，并加入
+</font></font><a href="https://discord.gg/8tcDQ89Ej2" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+以获取有关如何为其</font></font><a href="/gpt-engineer-org/gpt-engineer/blob/main/.github/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">做出贡献的</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">意见。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">gpt-engineer</font><font style="vertical-align: inherit;">由长期贡献者委员会</font></font><a href="https://github.com/gpt-engineer-org/gpt-engineer/blob/main/GOVERNANCE.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">管理。</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您经常做出贡献并且有兴趣塑造 gpt-engineer 的未来，您将被考虑加入董事会。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-example" class="anchor" aria-hidden="true" tabindex="-1" href="#example"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例子</font></font></h2>
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+    <span aria-label="视频描述reduce.mov" class="m-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">减少.mov</font></font></span>
+    <span class="dropdown-caret"></span>
+  </summary>
 
-## Getting Started
+  <video src="https://private-user-images.githubusercontent.com/4467025/277039279-40d0a9a8-82d0-4432-9376-136df0d57c99.mov?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYxODIxMjMsIm5iZiI6MTcwNjE4MTgyMywicGF0aCI6Ii80NDY3MDI1LzI3NzAzOTI3OS00MGQwYTlhOC04MmQwLTQ0MzItOTM3Ni0xMzZkZjBkNTdjOTkubW92P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDEyNSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAxMjVUMTEyMzQzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MmJkZmYyMmU3YWU3MTllOTcyYjBlM2FjNmJiZjYyYjkyYmM0NWI0ZGY3MjkwNWY0YTVjYmFlYTFiMmEyZDFiMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.Qf_xZnzsJgxtklZbYZt1elIZP3HMSrh-yCvUvWiD5yY" data-canonical-src="https://private-user-images.githubusercontent.com/4467025/277039279-40d0a9a8-82d0-4432-9376-136df0d57c99.mov?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYxODIxMjMsIm5iZiI6MTcwNjE4MTgyMywicGF0aCI6Ii80NDY3MDI1LzI3NzAzOTI3OS00MGQwYTlhOC04MmQwLTQ0MzItOTM3Ni0xMzZkZjBkNTdjOTkubW92P1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDEyNSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDAxMjVUMTEyMzQzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MmJkZmYyMmU3YWU3MTllOTcyYjBlM2FjNmJiZjYyYjkyYmM0NWI0ZGY3MjkwNWY0YTVjYmFlYTFiMmEyZDFiMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.Qf_xZnzsJgxtklZbYZt1elIZP3HMSrh-yCvUvWiD5yY" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
-### Install gpt-engineer
+  </video>
+</details>
 
-For **stable** release:
-
-- `python -m pip install gpt-engineer`
-
-For **development**:
-- `git clone https://github.com/gpt-engineer-org/gpt-engineer.git`
-- `cd gpt-engineer`
-- `poetry install`
-- `poetry shell` to activate the virtual environment
-
-We actively support Python 3.10 - 3.11. The last version to support python 3.8 - 3.9 was [0.2.6](https://pypi.org/project/gpt-engineer/0.2.6/).
-
-### Setup API Key
-
-Choose **one** of:
-- Export env variable (you can add this to .bashrc so that you don't have to do it each time you start the terminal)
-    - `export OPENAI_API_KEY=[your api key]`
-- .env file:
-    - Create a copy of `.env.template` named `.env`
-    - Add your OPENAI_API_KEY in .env
-- Custom model:
-    - See [docs](https://gpt-engineer.readthedocs.io/en/latest/open_models.html), supports local model, azure, etc.
-
-Check the [Windows README](./WINDOWS_README.md) for windows usage.
-
-**Other ways to run:**
-- Use Docker ([instructions](docker/README.md))
-- Do everything in your browser:
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/gpt-engineer-org/gpt-engineer/codespaces)
-
-### Creating new code (default usage)
-- Create an empty folder for your project anywhere on your computer
-- Create a file called `prompt` (no extension) inside your new folder and fill it with instructions
-- Run `gpte <project_dir>` with a relative path to your folder
-  - For example: `gpte projects/my-new-project` from the gpt-engineer directory root with your new folder in `projects/`
-
-### Improving Existing Code
-- Locate a folder with code which you want to improve anywhere on your computer
-- Create a file called `prompt` (no extension) inside your new folder and fill it with instructions for how you want to improve the code
-- Run `gpte <project_dir> -i` with a relative path to your folder
-  - For example: `gpte projects/my-old-project` from the gpt-engineer directory root with your folder in `projects/`
-
-By running gpt-engineer you agree to our [terms](https://github.com/gpt-engineer-org/gpt-engineer/blob/main/TERMS_OF_USE.md).
-
-### Note
-
-- To run this tool, the new command `gpte` is recommended for better user experience. However, the earlier default commands `gpt-engineer` and `ge` are also supported.
-
-## Relation to gptengineer.app
-[gptengineer.app](https://gptengineer.app/) is a commercial project for automatic generation of web-apps. It emerged from gpt-engineer and is committed to giving back to the open source community.  A portion of gptengineer.app’s revenue will fund a full-time role and infrastructure for maintaining open-source tools for code generation.
-
-
-## Features
-
-You can specify the "identity" of the AI agent by editing the files in the `preprompts` folder.
-
-Editing the `preprompts`, and evolving how you write the project prompt, is how you make the agent remember things between projects.
-
-You can also automatically copy all `preprompts` files into your project folder using the cli parameter `--use-custom-preprompts`. This way you can have custom preprompts for all of your projects without the need to edit the main files.
-
-You can also run with open source models, like WizardCoder. See the [documentation](https://gpt-engineer.readthedocs.io/en/latest/open_models.html) for example instructions.
-
-## Mission
-
-The gpt-engineer community mission is to **maintain tools that coding agent builders can use and facilitate collaboration in the open source community**.
-
-If you are interested in contributing to this, we are interested in having you.
-
-If you want to see our broader ambitions, check out the [roadmap](https://github.com/gpt-engineer-org/gpt-engineer/blob/main/ROADMAP.md), and join
-[discord](https://discord.gg/8tcDQ89Ej2)
-to get input on how you can [contribute](.github/CONTRIBUTING.md) to it.
-
-gpt-engineer is [governed](https://github.com/gpt-engineer-org/gpt-engineer/blob/main/GOVERNANCE.md) by a board of long term contributors. If you contribute routinely and have an interest in shaping the future of gpt-engineer, you will be considered for the board.
-
-## Example
-
-
-
-https://github.com/gpt-engineer-org/gpt-engineer/assets/4467025/40d0a9a8-82d0-4432-9376-136df0d57c99
+</article></div>
